@@ -6,3 +6,6 @@ You want to suffer, looters want to loot and all the bandits are into killing yo
 Welcome to an endless bandits stream that will tear the world in ruin, capture every lord, destroy any army that dares to pass nearby. No adventurers is safe.
 
 ### These are Harsh Times.
+
+## How to install
+Download as a zip, put into Steam\steamapps\common\Mount & Blade II Bannerlord\Modules.
